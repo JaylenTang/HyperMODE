@@ -1,5 +1,5 @@
 # HyperMODE
 
-This repository contains the official implementation of **HyperMODE: Integrating Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**.
+Official implementation of **HyperMODE: Integrating Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**.
 
-Code will be released upon publication of the paper.
+The source code will be made publicly available after the paper is accepted.
