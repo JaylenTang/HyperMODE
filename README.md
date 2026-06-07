@@ -2,7 +2,7 @@
 
 Official implementation of **HyperMODE: Integrating Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**.
 
-<img width="5088" height="2632" alt="HyperMODE drawio" src="https://github.com/user-attachments/assets/31ace98e-256d-4a65-bdcc-43647f4b8d2f" />
+![HyperMODE architecture](assets/HyperMODE.png)
 
 ---
 ## HyperMODE (Mean ± Std)
