@@ -1,6 +1,6 @@
 # HyperMODE
 
-Official implementation of **HyperMODE: Integrating Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**.
+Official implementation of **HyperMODE: A Continuous-Depth Spectral–Spatial Modeling Framework with Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**.
 
 ![HyperMODE architecture](assets/HyperMODE.png)
 
@@ -66,6 +66,5 @@ pip install -r requirements.txt
 - **torchdiffeq** (>=0.2.0): Neural ODE solver
 - **einops** (>=0.6.0): Tensor operations
 - **scikit-learn** (>=1.0.0): Machine learning utilities
-
 
 
