@@ -66,3 +66,11 @@ pip install -r requirements.txt
 - **torchdiffeq** (>=0.2.0): Neural ODE solver
 - **einops** (>=0.6.0): Tensor operations
 - **scikit-learn** (>=1.0.0): Machine learning utilities
+
+##  Acknowledgement
+
+This repository builds upon the following works:
+
+
+- [**HSI-MFormer: Integrating Mamba and Transformer Experts for Hyperspectral Image Classification**](https://doi.org/10.1109/TGRS.2025.3564167) [[Code]](https://github.com/tubingnuist/HSI-MFormer)
+- [**Dual ODE: Spatial-Spectral Neural Ordinary Differential Equations for Hyperspectral Image Super-Resolution**](https://doi.org/10.1109/TGRS.2023.3346526)
