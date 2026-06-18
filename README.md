@@ -73,4 +73,5 @@ This repository builds upon the following works:
 
 
 - [**HSI-MFormer: Integrating Mamba and Transformer Experts for Hyperspectral Image Classification**](https://doi.org/10.1109/TGRS.2025.3564167) [[Code]](https://github.com/tubingnuist/HSI-MFormer)
+- [**Neural Ordinary Differential Equations for Hyperspectral Image Classification**](https://ieeexplore.ieee.org/document/8892510)
 - [**Dual ODE: Spatial-Spectral Neural Ordinary Differential Equations for Hyperspectral Image Super-Resolution**](https://doi.org/10.1109/TGRS.2023.3346526)
