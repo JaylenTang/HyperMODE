@@ -66,7 +66,20 @@ pip install -r requirements.txt
 - **torchdiffeq** (>=0.2.0): Neural ODE solver
 - **einops** (>=0.6.0): Tensor operations
 - **scikit-learn** (>=1.0.0): Machine learning utilities
+- 
+## Citation
 
+```bibtex
+@ARTICLE{HyperMODE,
+  author={Tang, Jialin and Lou, Yunduan and Guo, Yanhui and Bai, Yu},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  title={HyperMODE: A Continuous-Depth Spectral--Spatial Modeling Framework With Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification},
+  year={2026},
+  volume={19},
+  number={},
+  pages={21474-21491},
+  doi={10.1109/JSTARS.2026.3705708}}
+```
 ##  Acknowledgement
 
 This repository builds upon the following works:
