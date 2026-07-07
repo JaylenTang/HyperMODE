@@ -67,7 +67,7 @@ pip install -r requirements.txt
 - **einops** (>=0.6.0): Tensor operations
 - **scikit-learn** (>=1.0.0): Machine learning utilities
 - 
-## Citation
+# Citation
 
 ```bibtex
 @ARTICLE{HyperMODE,
