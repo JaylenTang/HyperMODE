@@ -1,6 +1,8 @@
 # HyperMODE: A Continuous-Depth Spectral-Spatial Modeling Framework with Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification
 
-**HyperMODE: A Continuous-Depth Spectral-Spatial Modeling Framework with Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**, published at *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (JSTARS), 2026. doi: [10.1109/JSTARS.2026.3705708](https://doi.org/10.1109/JSTARS.2026.3705708).
+**HyperMODE: A Continuous-Depth Spectral-Spatial Modeling Framework with Mamba and Neural Ordinary Differential Equations for Hyperspectral Image Classification**, published at *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (JSTARS), 2026.
+
+**DOI:&#xA0;**[10.1109/JSTARS.2026.3705708](https://doi.org/10.1109/JSTARS.2026.3705708)
 
 ![HyperMODE architecture](assets/HyperMODE.png)
 
